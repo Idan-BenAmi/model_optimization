@@ -9,4 +9,3 @@ tensorboard
 PuLP
 matplotlib
 scipy
-protobuf
